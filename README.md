@@ -1,16 +1,9 @@
-# React + Vite
+<img width="944" height="509" alt="image" src="https://github.com/user-attachments/assets/d6e43d92-13f1-473f-b5bb-506c521c1e0d" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="959" height="508" alt="image" src="https://github.com/user-attachments/assets/b2e77f2b-f88a-4c0d-8470-1dce3bcebea5" />
 
-Currently, two official plugins are available:
+<img width="948" height="505" alt="image" src="https://github.com/user-attachments/assets/8ba9e319-d326-4596-ab7c-62917f057477" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<img width="947" height="502" alt="image" src="https://github.com/user-attachments/assets/28851570-6f15-4ee5-9de6-ef41e6989ba6" />
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
